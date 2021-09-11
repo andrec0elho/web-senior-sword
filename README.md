@@ -1,7 +1,7 @@
 # Web Senior Challenge - SWORD Health
 
 ## Architecture diagram
-![architecture diagram](./set-challenge-sword.jpg)
+![architecture diagram](./architecture-sword.jpg)
 
 ## Architecture details
 
